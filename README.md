@@ -12,6 +12,7 @@ Tanya admin
 
 
 Nih jangan marah ya
+,,,Bash
 '$apt update';
 '$apt upgrade';
 '$apt install';
