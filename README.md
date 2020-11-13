@@ -16,11 +16,10 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/raihanam/kntnbotwa.dll
-> cd kntnbotwa.dll
+> git clone https://github.com/raihanam/bot-wa
+> cd bot-wa
 > npm i -g cwebp && npm i -g ytdl
 > npm i && npm i got
-> bash install.sh
 > node index.js
 ```
 
@@ -51,7 +50,7 @@ ket : ✅ : aktif
 
 
 ## THANKS TO
-* [`kntnbotwa`] https://github.com/raihanam/kntnbotwa
+* [`kntnbotwa`] https://github.com/raihanam/bot-wa
 
 ## DONASI
 * Gopay : 085281968399
